@@ -5,6 +5,6 @@
         - Include all source code here
     - /images
         - Include all images you use in your notebook here
-    - notebook.md (or README.md)
-        - Lab notes not included in your git commit history	/LabX/code
+    - README.md
+        - Lab notes not included in your git commit history	or code comments
 
